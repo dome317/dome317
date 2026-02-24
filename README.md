@@ -4,7 +4,7 @@ Multi-agent architectures, workflow automation, production-grade pipelines. No t
 
 ---
 
-## What I Build
+## What I Build (Last 30 days)
 
 <table>
 <tr><td>
