@@ -101,4 +101,4 @@ Multi-agent autonomous sales pipeline. 4 specialized agents (Qualification, Outr
 
 ---
 
-<sub>Dominik Tsatskin — M.Sc. Wirtschaftsinformatik — Germany</sub>
+<sub>Dominik Tsatskin — Computer Science — Germany</sub>
